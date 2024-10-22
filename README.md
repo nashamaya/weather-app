@@ -10,7 +10,7 @@ This weather forecast app is a React-based web application that allows users to 
 
 ## How to Run
 
-1. Clone the repository to your local machine.
+1. Clone this repository to your local machine `https://github.com/nashamaya/weather-app.git`
 2. Open the terminal and navigate to the project directory.
 3. Create a .env file in the root directory and add the following:
    - VITE_APP_ID="026f57efc086a8b45b58d36c139e25a5"
